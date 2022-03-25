@@ -1,6 +1,6 @@
 {
-  "name": "sensen-form-transaction",
-  "version": "0.0.2",
+  "name": "sensen-plugin-form-transaction",
+  "version": "0.0.1",
   "description": "get a HTMLForm transaction",
   "main": "index.js",
   "author": "G.Y. Yannick",
